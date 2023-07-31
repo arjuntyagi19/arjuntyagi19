@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Arjun Tyagi</h1>
+<h1 align="center">Hi👋, I'm Arjun Tyagi</h1>
 <h3 align="center">A passionate apprentice in the field of AI</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
