@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjuntyagi19&label=Profile%20views&color=0e75b6&style=flat" alt="arjuntyagi19" /> </p>
 
-- 🔭 I’m currently working on **various projects in the domian of NLP and deep learning**
-
-- 🌱 I’m currently learning **NLP,Deep Learning,Machine Learning,various programming languages and frameworks**
+- 🔭 I’m currently working on **various projects in the domian of NLP , Machine Learning , Reinforcement Learning and Deep learning**
 
 - 📫 How to reach me **arjuntyagi1962003@gmail.com**
 
